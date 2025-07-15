@@ -6,3 +6,4 @@ hello devops
 =======
 hello gitpull
 >>>>>>> b08684c665b648039f7df5421b94d8b13cf911b0
+hello fetch
